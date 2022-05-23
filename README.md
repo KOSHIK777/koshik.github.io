@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<head>
+ <!DOCTYPE html>
+ <head>
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,7 +59,7 @@
  <div class="ltextarea" data-speed="-5" style="text-align: center;">
     
  <h1 class="ltext layer " style="transform: translateX(4.03px) translateY(9.67px);">Welcome</h1>
- <h3 class="lsubtext layer " style="transform: translateX(4.03px) translateY(9.67px);">To the world of Ankan</h3>
+ <h3 class="lsubtext layer " style="transform: translateX(4.03px) translateY(9.67px);">To The Multiverse</h3>
  </div>
   
   
