@@ -72,7 +72,6 @@
 <p class="cell abtext" id="abtext">Hi, My name is Koshik. I am from India and I want to be a full stack web-developer in future. I am a teenager studying in Kendriya Vidyalaya.</span> . I have many dreams and goals in my life to fullfill.</p>
 </div>
 
-
 <script src="js/paralax.js"></script>
 <script src="js/app.js"></script>
 
